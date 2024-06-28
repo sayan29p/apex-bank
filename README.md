@@ -31,3 +31,21 @@ This project is divided into three hierarchical parts:
 > The login page for the customer login.
 
 > A admin login page.
+
+SOFTWARE REQUIREMENTS:
+
+• Operating system : Windows XP/7/10.
+
+• Front End : PHP
+
+• Back end: MySQL
+
+• Database : MYSQL (Install XAMPP)
+
+• Server: XAMPP
+
+Technologies used:
+
+• PHP
+
+• Mysql
